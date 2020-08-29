@@ -18,7 +18,7 @@ a {
 }
 
 a:hover {
-  color: #1eb4ff;
+  color: #FF1FD9;
   text-decoration: none;
 }
 
@@ -1731,7 +1731,7 @@ section {
 }
 
 #footer .footer-top .footer-newsletter form input[type="submit"]:hover {
-  background: #007ab7;
+  background: #FF1FD9;
 }
 
 #footer .copyright {
